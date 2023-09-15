@@ -1,0 +1,10 @@
+Introduction #Day 1
+
+- What is DevOps
+It is the process of resolving the issue for dev team and operation team using the tools. It solve the problem of dev  or operation team so it is the methodology to automate the things using CI-CD.
+
+- What is Automation, Scaling, Infrastructure
+Testing or deploy the product manually we do the automate the things so that we reduce the time, human error using various tools of devops we will automate the product and balance the traffic of product maintaining the product.
+
+- Why DevOps is Important,
+DevOps solve the one of the biggest problem of dev team - the code is working fine in my system bt if other system the code is not working bcoz there is many issue like packages, evn etc  so in devops we solve this using the containers. Basically devops solve many issues in dev env or qa env.
