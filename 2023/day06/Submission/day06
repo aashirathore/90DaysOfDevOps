@@ -1,0 +1,19 @@
+2. Write an article about File Permissions based on your understanding from the notes.
+Chmod u+r for adding permission
+Chmod u-r for remove
+>Chmod a+rwx filename
+Numeric code
+7 - rwx
+6- rw
+5- rx
+4- r
+3- xw
+2- w
+1- x
+0-no
+
+3. Read about ACL and try out the commands `getfacl` and `setfacl`
+getfacl command is used to display the ACL (Access Control List) entries for a file or directory.
+>getfacl filename
+setfacl command is used to set or modify the ACL entries for a file or directory.
+>setfacl -m u:user1:w filename
