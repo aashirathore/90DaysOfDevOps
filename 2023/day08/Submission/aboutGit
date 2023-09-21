@@ -1,0 +1,25 @@
+Git
+
+>git branch <branchname>
+>git branch
+>git checkout <branchname>
+
+git stash what does
+	#Stash meaning -> store something safely in a hidden place.
+	#git stash command enables you to switch branches without committing the current branch.
+	>git stash -m "add the line"
+	>git stash list
+	>git stash apply
+	>git stash apply stash@{2}
+	>git stash drop stash@{2}
+	>git stash clear
+	>git stash branch "newbranch" stash@{0}
+
+GIT cheery pick
+	#Apply the specific commit in other branch.
+	>git checkout master
+	>git cheery-pick commit-id
+	>git push
+
+GIT conflict
+#When the same file having diff content in diff branches it you do merge, conflict occurs( resolve it and then add or commit).
