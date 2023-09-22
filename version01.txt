@@ -1,0 +1,2 @@
+- 1st line>> This is the bug fix in development branch
+- Commit this with message “ Added feature2 in development branch”
