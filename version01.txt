@@ -1,8 +1,2 @@
 - 1st line>> This is the bug fix in development branch
 - Commit this with message “ Added feature2 in development branch”
-
-- 2nd line>> This is gadbad code
-- Commit this with message “ Added feature3 in development branch
-
-- 3rd line>> This feature will gadbad everything from now.
-- Commit with message “ Added feature4 in development branch
