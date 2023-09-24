@@ -5,4 +5,4 @@
 - Commit this with message “ Added feature3 in development branch
 
 - 3rd line>> This feature will gadbad everything from now.
-- Commit with message “ Added feature4 in development branch
+- Commit with message “ Added feature4 in development branch.
