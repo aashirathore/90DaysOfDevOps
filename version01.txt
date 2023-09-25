@@ -6,3 +6,6 @@
 
 - 3rd line>> This feature will gadbad everything from now.
 - Commit with message “ Added feature4 in development branch
+
+- 4rd line dev changes>> This feature will gadbad everything from now.
+- Commit with message “ Added feature4 in development branch.
