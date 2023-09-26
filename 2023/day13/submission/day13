@@ -1,0 +1,11 @@
+Task1:
+
+1. Install Python in your respective OS, and check the version.
+>yum install python -y
+
+2. Read about different Data Types in Python.
+>list
+>string
+>dic
+>map
+>tuple
