@@ -54,3 +54,5 @@ print(mydict)
 print(mydict.get("DevOps tools"))
 
 print(mydict.values()) #method return the list of values.
+
+#method to array-list.
